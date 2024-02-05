@@ -1,8 +1,10 @@
 To reproduce:
 
-* git clone https://github.com/martinbonnin/test-gradle-8-6
-* cd test-gradle-8-6
-* ./gradlew test --configuration-cache -i
+```
+git clone https://github.com/martinbonnin/test-gradle-8-6
+cd test-gradle-8-6
+./gradlew test --configuration-cache -i
+```
 
 Output:
 
